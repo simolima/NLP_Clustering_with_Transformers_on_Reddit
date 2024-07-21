@@ -22,19 +22,30 @@ Cluster quality is assessed using Silhouette Scores and Davies-Bouldin Indexes t
 
 ### Tools and Technologies
 Python: Primary programming language used for scripting and analysis.
+
 Transformers Library: Provides implementations of BERT and GPT models.
+
 Scikit-learn: Used for implementing K-Means and DBSCAN clustering algorithms.
+
 NLTK: Utilized for preprocessing and text manipulation.
+
 Matplotlib and Seaborn: For visualization of results and clusters.
 
 ### Related work
 "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" di Devlin et al. (2018).
+
 "Attention Is All You Need" di Vaswani et al. (2017).
+
  "A Text Document Clustering Method Based on Weighted BERT Model" Yutong Li et al.(2020).
+ 
 "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks" di Reimers e Gurevych (2019).
+
 "X-means: Extending K-means with Efficient Estimation of the Number of Clusters" di Pelleg e Moore(2000).
+
 "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise" di Ester et al.(1996).
-"Silhouettes: a graphical aid to the interpretation and validation of cluster analysis" di Rousseeuw (1987),.
+
+"Silhouettes: a graphical aid to the interpretation and validation of cluster analysis" di Rousseeuw (1987).
+
 "Practical Applications of NLP in Social Media Monitoring" Atefeh Farzindar , Diana Inkpen (2018).
 
 
